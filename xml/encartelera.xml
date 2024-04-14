@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato tipo="Entrante">
+      <nombre>Pelemeni</nombre> 
+      <precio>7,99€</precio>
+      <description>Pelemeni son dumplings tradicionales de Europa del Este, rellenos de carne picada (generalmente cerdo y res) y condimentos. Se sirven hervidos o a veces fritos, y se acompañan típicamente con crema agria o salsa de tomate.
+      </description> 
+      <calorias>350kcal</calorias>
+      <imagen>./img/pelemeni.jpg</imagen>
+      <ingredientes> 
+        <categoria>🥩</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Sopa">
+      <nombre>Borsch</nombre> 
+      <precio>5,99€</precio>
+      <description>Borsch es una sopa de remolacha que forma parte de la cocina tradicional de varios países de Europa del Este, como Ucrania y Rusia. Se elabora con remolacha, col, zanahorias, patatas, carne (generalmente de res) y a veces se sirve con crema agria.
+      </description> 
+      <calorias>234kcal</calorias>
+      <imagen>./img/Borsch.jpg</imagen>
+      <ingredientes> 
+        <categoria>🥩</categoria>
+        <categoria>🍞</categoria>
+        <categoria>🥗</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+      <nombre>Varenyky</nombre> 
+      <precio>6,99€</precio>
+      <description>Varenyky, también conocidos como pierogi, son dumplings de Europa del Este rellenos de una variedad de ingredientes como puré de patatas, queso, carne o frutas. Se pueden hervir, freír o incluso hornear.
+      </description> 
+      <calorias>274kcal</calorias>
+      <imagen>./img/vareniky.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥛</categoria>
+        <categoria>🌱</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+      <nombre>Salo</nombre> 
+      <precio>2,99€</precio>
+      <description>Salo es una especie de panceta de cerdo salada, a menudo se sirve como aperitivo en la cocina de Europa del Este. Se come en rodajas finas o se utiliza como ingrediente en otros platos.
+      </description> 
+      <calorias>732kcal</calorias>
+      <imagen>./img/salo.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥩</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Carne">
+      <nombre>Golubtsi</nombre> 
+      <precio>9,99€</precio>
+      <description>Golubtsi son rollos de col rellenos de carne molida, arroz y condimentos, cocidos en una salsa de tomate. Son un plato tradicional en la cocina eslava.
+      </description> 
+      <calorias>312kcal</calorias>
+      <imagen>./img/Golubtsi.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥩</categoria>
+        <categoria>🥗</categoria>
+        <categoria>🍞</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Sopa">
+      <nombre>Kapusniak</nombre> 
+      <precio>6,99€</precio>
+      <description>Kapusniak es una sopa de col típica de la cocina polaca. Se elabora con col agria, carne (generalmente cerdo), zanahorias, patatas y a veces se le añade tomate.
+      </description> 
+      <calorias>231kcal</calorias>
+      <imagen>./img/Kapusniak.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥩</categoria>
+        <categoria>🥗</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+      <nombre>Pampushky</nombre> 
+      <precio>5,99€</precio>
+      <description>Pampushky son bollos de pan fermentado, típicamente cubiertos con ajo y perejil. Son un acompañamiento popular para sopas como el borsch.
+      </description> 
+      <calorias>120kcal</calorias>
+      <imagen>./img/Pampushky.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🌱</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+      <nombre>Deruny</nombre> 
+      <precio>5,99€</precio>
+      <description>Deruny son tortitas de patata fritas, a menudo se sirven como plato principal o acompañamiento en la cocina de Europa del Este. Pueden estar rellenas de carne o servirse con crema agria.
+      </description> 
+      <calorias>278kcal</calorias>
+      <imagen>./img/Deruny.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🍞</categoria>
+        <categoria>🌱</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+      <nombre>Olivye</nombre> 
+      <precio>6,99€</precio>
+      <description>Olivye es una ensalada de patata rusa que contiene patatas cocidas, zanahorias, guisantes, pepinillos, salchichas y mayonesa. Es un plato común en festividades y ocasiones especiales.
+      </description> 
+      <calorias>222kcal</calorias>
+      <imagen>./img/Olivye.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥗</categoria>
+        <categoria>🍞</categoria>
+        <categoria>🥩</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Sopa">
+      <nombre>Zelenyj Borshch</nombre> 
+      <precio>8,99€</precio>
+      <description>Zelenyj Borshch, también conocido como sopa verde, es una sopa de origen ucraniano elaborada con acedera, espinacas, ortigas y otras hierbas verdes. Puede incluir huevos duros y se sirve con crema agria.
+      </description> 
+      <calorias>169kcal</calorias>
+      <imagen>./img/Zelenyj_Borshch.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥗</categoria>
+        <categoria>🍞</categoria>
+        <categoria>🌱</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Sopa">
+      <nombre>Solyanka</nombre> 
+      <precio>7,99€</precio>
+      <description>Solyanka es una sopa espesa y picante originaria de Rusia. Se elabora con una variedad de carnes (como cerdo, ternera y pollo), embutidos, pepinillos, aceitunas, limón y a veces se le añade crema agria.
+      </description> 
+      <calorias>333kcal</calorias>
+      <imagen>./img/Solyanka.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥩</categoria>
+        <categoria>🥗</categoria>
+        <categoria>🍞</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Sopa">
+      <nombre>Okroshka</nombre> 
+      <precio>7,99€</precio>
+      <description>Okroshka es una sopa fría típica de la cocina rusa, hecha con kéfir o suero de leche, pepinos, patatas, huevos duros, cebolla y eneldo.
+      </description> 
+      <calorias>202kcal</calorias>
+      <imagen>./img/Okroshka.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥗</categoria>
+        <categoria>🥛</categoria>
+        <categoria>🍞</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Carne">
+      <nombre>Guliash</nombre> 
+      <precio>6,99€</precio>
+      <description>Guliash es un estofado de carne típico de Hungría y otras regiones de Europa Central. Se elabora con carne de res, cebolla, pimientos, tomates y condimentos como pimentón y comino.
+      </description> 
+      <calorias>389kcal</calorias>
+      <imagen>./img/Guliash.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥩</categoria>
+        <categoria>🥗</categoria>
+        <categoria>🍞</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Pan">
+      <nombre>Bublik</nombre> 
+      <precio>1,99€</precio>
+      <description>Bublik es un pan tradicional en la cocina eslava, similar a un bagel pero con un agujero más grande en el centro. Se puede servir como acompañamiento o como base para sándwiches.
+      </description> 
+      <calorias>155kcal</calorias>
+      <imagen>./img/Bublik.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🌱</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Pan">
+      <nombre>Korovai</nombre> 
+      <precio>2,99€</precio>
+      <description>Korovai es un pan festivo tradicional en Ucrania y Rusia, elaborado para bodas y ocasiones especiales. Se adorna con figuras de pájaros y otros símbolos. Generalmente es elaborado por panaderos especializados.
+      </description> 
+      <calorias>234kcal</calorias>
+      <imagen>./img/Korovai.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🌱</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Postre">
+      <nombre>Paska</nombre> 
+      <precio>5,99€</precio>
+      <description>Paska es un pan dulce tradicional que se come durante la Semana Santa en países como Ucrania y Rusia. Suele estar decorado con glaseado y adornos festivos.
+      </description> 
+      <calorias>246kcal</calorias>
+      <imagen>./img/Paska.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🌱</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Postre">
+      <nombre>Mlyntsí</nombre> 
+      <precio>5,99€</precio>
+      <description>Mlyntsi son crepes tradicionales de Europa del Este, similares a los blinis rusos. Se sirven enrollados y pueden ir acompañados de una variedad de rellenos, como mermelada, miel, frutas o crema agria.
+      </description> 
+      <calorias>120kcal</calorias>
+      <imagen>./img/Mlyntsí.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🌱</categoria>
+        <categoria>🥛</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Postre">
+      <nombre>Sírniki</nombre> 
+      <precio>4,99€</precio>
+      <description>Sirniki son pequeñas tortitas de requesón o queso cottage, típicas de la cocina rusa y ucraniana. Se sirven como postre o desayuno, a menudo acompañados de crema agria, miel o mermelada.
+      </description> 
+      <calorias>212kcal</calorias>
+      <imagen>./img/Sírniki.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🌱</categoria>
+        <categoria>🥛</categoria>
+        <categoria>🍞</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Carne">
+      <nombre>Kovbasa</nombre> 
+      <precio>5,99€</precio>
+      <description>La kovbasa es una salchicha ahumada tradicional en la cocina ucraniana, elaborada con carne de cerdo o una mezcla de carne de cerdo y res, condimentada con ajo, pimienta y otras especias.
+      </description> 
+      <calorias>278kcal</calorias>
+      <imagen>./img/Kovbasa.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥩</categoria>
+        <categoria>🍞</categoria>
+      </ingredientes>
+    </plato>
+    <plato tipo="Carne">
+      <nombre>Kotleta Po-Kyivsky</nombre> 
+      <precio>7,99€</precio>
+      <description>Kotleta Po-Kyivsky es un plato ucraniano que consiste en pechuga de pollo rellena de mantequilla y hierbas, empanada y luego frita o asada. Es conocida por su relleno cremoso y su exterior crujiente.
+      </description> 
+      <calorias>378kcal</calorias>
+      <imagen>./img/Kotleta_Po-Kyivsky.jpg</imagen> 
+      <ingredientes> 
+        <categoria>🥩</categoria>
+        <categoria>🍞</categoria>
+      </ingredientes>
+    </plato>
+</menu>
