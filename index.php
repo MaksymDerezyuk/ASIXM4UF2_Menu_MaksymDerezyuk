@@ -3,7 +3,7 @@
 <head>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="css/styles.css">
-    <title>Cartelera de tipo</title>
+    <title>The Food Cave</title>
     <script src="https://kit.fontawesome.com/06d9f9b20f.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -40,11 +40,21 @@ else {
         }
 ?>
   </ul>
-  <p class="simbolos"><strong> CARNE = 🥩 </strong></p>
-  <p class="simbolos"><strong> LACTEO = 🥛 </strong></p>
-  <p class="simbolos"><strong> SIN GLUTEN = 🍞 </strong></p>
-  <p class="simbolos"><strong> VERDURAS = 🥗</strong></p>
-  <p class="simbolos"><strong> VEGETARIANO = 🌱 </strong></p>
+  <div class="categ">
+    <p class="simbolos"><strong> CARNE = 🥩 </strong></p>
+  </div>
+  <div class="categ">
+    <p class="simbolos"><strong> LACTEO = 🥛 </strong></p>
+  </div>
+  <div class="categ">
+    <p class="simbolos"><strong> SIN GLUTEN = 🍞 </strong></p>
+  </div>
+  <div class="categ">
+    <p class="simbolos"><strong> VERDURAS = 🥗</strong></p>
+  </div>
+  <div class="categ">
+    <p class="simbolos"><strong> VEGETARIANO = 🌱 </strong></p>
+  </div>
 </div>
 
 <!-- AASASASAS -->
